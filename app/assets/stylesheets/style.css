@@ -222,6 +222,7 @@ a {
 
 .comments_lists{
   padding-left: 20px;
+  display: block;
 }
 
 .comments_list{
